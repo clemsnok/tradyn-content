@@ -1,0 +1,52 @@
+[
+  {
+    "id": "revue-marche-avril-2026",
+    "title": "Revue marché - Avril 2026",
+    "date": "2026-04-01",
+    "category": "Revue mensuelle",
+    "summary": "Analyse rapide du marché crypto, actions et macro après un mois dominé par les taux et la liquidité.",
+    "content": "Avril 2026 a confirmé un marché plus sélectif. Les actifs risqués restent soutenus par l'espoir d'un assouplissement monétaire, mais les mouvements les plus propres se concentrent sur les actifs avec narration claire et volumes solides.\n\nCôté crypto, Bitcoin conserve son rôle de baromètre de liquidité. Les rotations vers les altcoins restent rapides et souvent fragiles, ce qui favorise les plans courts, les prises partielles et une gestion stricte du risque.\n\nSur les actions, les indices restent portés par les grandes capitalisations de qualité. Le signal principal à surveiller reste la largeur de marché : tant qu'elle ne s'améliore pas, il faut éviter de confondre hausse d'indice et marché facile.\n\nPlan de travail : privilégier les setups simples, réduire la taille sur les cassures tardives et documenter chaque décision dans le journal.",
+    "imageUrl": "https://images.unsplash.com/photo-1642790106117-e829e14a795f?auto=format&fit=crop&w=1200&q=80",
+    "isPremium": false
+  },
+  {
+    "id": "psychologie-trading-attente",
+    "title": "L'attente est une position",
+    "date": "2026-04-08",
+    "category": "Psychologie trading",
+    "summary": "Pourquoi ne rien faire est parfois le meilleur trade, surtout quand le marché pousse à l'action permanente.",
+    "content": "Le trader débutant pense souvent qu'il doit être exposé pour progresser. En réalité, l'attente fait partie du process. Attendre, c'est protéger son capital mental, observer la qualité du contexte et éviter les entrées prises uniquement pour soulager l'impatience.\n\nUne bonne attente n'est pas passive. Elle consiste à définir la zone, le déclencheur, l'invalidation et la taille avant que le prix arrive. Quand le signal se présente, la décision est déjà presque prise.\n\nExercice simple : note chaque trade non pris pendant une semaine. Indique pourquoi tu as attendu, ce que le marché a fait ensuite, et ce que cette décision a économisé en perte ou en stress.",
+    "imageUrl": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=80",
+    "isPremium": false
+  },
+  {
+    "id": "crypto-bitcoin-liquidite-2026",
+    "title": "Bitcoin et liquidité : le signal à ne pas isoler",
+    "date": "2026-04-15",
+    "category": "Crypto",
+    "summary": "Bitcoin réagit à la liquidité globale, mais le contexte de flux compte autant que le graphique.",
+    "content": "Bitcoin reste très sensible aux anticipations de liquidité. Quand les conditions financières se détendent, les cassures techniques ont plus de chances d'être suivies. Quand la liquidité se contracte, les mêmes signaux deviennent plus piégeux.\n\nLe piège consiste à lire Bitcoin uniquement en analyse technique. Les niveaux comptent, mais la qualité du mouvement dépend souvent du dollar, des taux réels, des flux ETF et de l'appétit général pour le risque.\n\nPour un plan propre, combine trois éléments : tendance daily, réaction sur zone de liquidité, et confirmation par volume. Si deux éléments manquent, réduire la taille est souvent plus rentable que chercher à avoir raison.",
+    "imageUrl": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=1200&q=80",
+    "isPremium": true
+  },
+  {
+    "id": "macro-taux-dollar-risque",
+    "title": "Macro : taux, dollar et appétit pour le risque",
+    "date": "2026-04-22",
+    "category": "Macro",
+    "summary": "Un cadre simple pour lire l'environnement macro sans transformer chaque trade en thèse économique.",
+    "content": "La macro ne doit pas remplacer le plan de trading. Elle sert surtout à comprendre si le vent est dans le dos ou de face. Trois variables suffisent souvent pour un premier filtre : les taux, le dollar et les spreads de crédit.\n\nDes taux qui montent vite pèsent sur les valorisations longues. Un dollar fort peut réduire l'appétit pour les actifs risqués. Des spreads qui s'écartent signalent une demande de protection. Aucun indicateur n'est parfait seul, mais leur combinaison donne une lecture utile du régime.\n\nApplication pratique : si le régime macro devient défensif, privilégie les trades plus courts, les invalidations nettes et les actifs les plus liquides. Le but n'est pas de prédire, mais d'adapter l'agressivité.",
+    "imageUrl": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1200&q=80",
+    "isPremium": false
+  },
+  {
+    "id": "investissement-dca-qualite",
+    "title": "Investissement : DCA ne veut pas dire acheter n'importe quoi",
+    "date": "2026-04-29",
+    "category": "Investissement",
+    "summary": "Le DCA est une méthode d'exécution, pas une excuse pour ignorer la qualité de l'actif.",
+    "content": "Le DCA réduit le risque de mauvais timing, mais il ne transforme pas un mauvais actif en bon investissement. La méthode fonctionne mieux quand elle s'applique à des actifs robustes, liquides et alignés avec un horizon clair.\n\nAvant d'automatiser un achat régulier, pose trois questions : pourquoi cet actif mérite-t-il une place longue durée ? Quel scénario invalide la thèse ? Quelle taille maximale acceptes-tu dans ton patrimoine ?\n\nUn bon DCA se pilote rarement au jour le jour. Il se revoit par trimestre, avec une logique de pondération, de diversification et de risque total. La discipline ne consiste pas à acheter aveuglément, mais à suivre une règle que tu comprends.",
+    "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1200&q=80",
+    "isPremium": true
+  }
+]
